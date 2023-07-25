@@ -33,10 +33,6 @@
     --font-primary: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-display: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-  /* Settings Modal */
-    --settingsmodalbackground: transparent;
-    --settingsmodalwidth: 1000px;
-    --settingsmodalheight: 85vh;
 
   /*  Header Color  */
     --header-primary: #fff;
