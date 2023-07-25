@@ -579,7 +579,7 @@
 
 /* ~~~~		  		Toolbar							~~~~ */
 
-#app-mount .children-3xh0VB:after {
+/*#app-mount .children-3xh0VB:after {
   display: none;
 }
 .container-ZMc96U {
@@ -670,7 +670,7 @@
 }
 
 /* Tooltips */
-/*#app-mount .tooltipPrimary-3qLMbS,
+#app-mount .tooltipPrimary-3qLMbS,
 .toolbar-37BrJ5 {
   background-color: var(--background-floating);
 }
@@ -681,7 +681,7 @@
   border-top-color: var(--background-floating);
 }
 /* Voice/Game/etc bar */
-/*.container-1zzFcN,
+.container-1zzFcN,
 .container-6sXIoE {
   color: var(--header-primary);
   border-bottom: none;
